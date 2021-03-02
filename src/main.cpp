@@ -4,6 +4,6 @@
 
 int main() {
     int result = gcd(10, 15);
-    std::cout << gcd(10,15) << std::endl;
+    std::cout << result << std::endl;
     return 0;
 }
